@@ -9,7 +9,7 @@
 <br clear="both">
 
 <h2 align="center">🤖 Linguagens e Tecnologias</h2>
-a
+
 ###
 
 <div align="left">
