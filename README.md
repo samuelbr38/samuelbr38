@@ -39,17 +39,6 @@
 
 <img src="https://raw.githubusercontent.com/samuelbr38/samuelbr38/output/snake.svg" alt="Snake animation" />
 
-###
-
-<h2 align="center">✉ Contato</h2>
-
-###
-
-<div align="left">
-  <a href="https://t.me/sssdev1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
 
 ###
 
