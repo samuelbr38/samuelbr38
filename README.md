@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 Samuel S<br><br>🌐 Desenvolvedor Frontend | 💻 Entusiasta por tecnologia<br>🎓 Estudante focado em constante evolução na programação<br><br>🌟 Especialidades:<br><br>Desenvolvimento de sites modernos e clássicos<br>Criação com foco em alta performance e funcionalidade<br><br>🛠️ Habilidades principais:<br><br>Frontend: HTML | CSS | JavaScript<br>Banco de Dados: SQL<br>🚀 Projetos e interesses:<br><br>Criador de: energiasolares.netlify.app<br>Desenvolvimento de bots para Discord.<br>Desenvolvedor do EasyOptimize</p>
+<p align="left">👨‍💻 Samuel S | samuelcontatobr@gmail.com<br><br>🌐 Desenvolvedor Frontend | 💻 Entusiasta por tecnologia<br>🎓 Estudante focado em constante evolução na programação<br><br>🌟 Especialidades:<br><br>Desenvolvimento de sites modernos e clássicos<br>Criação com foco em alta performance e funcionalidade<br><br>🛠️ Habilidades principais:<br><br>Frontend: HTML | CSS | JavaScript<br>Banco de Dados: SQL<br>🚀 Projetos e interesses:<br><br>Criador de: energiasolares.netlify.app<br>Desenvolvimento de bots para Discord.<br>Desenvolvedor do EasyOptimize</p>
 
 ###
 
